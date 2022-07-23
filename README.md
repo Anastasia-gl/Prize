@@ -1,2 +1,1 @@
 # Prize
-Work with interfaces 
